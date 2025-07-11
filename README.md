@@ -30,8 +30,8 @@ cd sys-mem-watch
 ## how to run this project 
 run below two cmds in your root folder
 ```bash
-1. gcc src/sysmemwatch.c -o bin/sysmemwatch
-2. ./bin/sysmemwatch
+ gcc src/sysmemwatch.c -o bin/sysmemwatch
+ ./bin/sysmemwatch
 ```
 To watch the log in real time ;-
 ```bash
